@@ -1,7 +1,7 @@
 import streamlit as st 
 
 
-st.title('Projeto Amon')
+st.title('Projeto Rá')
 st.subheader('Machine Learning Apps')
 
 
