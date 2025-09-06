@@ -9,6 +9,4 @@ st.sidebar.markdown('Desenvolvido por [Éaco Rocha](www.google.com.br)')
 st.write('''
 
 
-
-
 ''')
